@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+       
+img {
+    float: center; /* flota el div a la derecha */
+    width: 5%; /* ocupa el 50% del ancho de la página */
+}
+
+#perfil {
+    float: right; /* flota el div a la derecha */
+    width: 45%; /* ocupa el 45% del ancho de la página */
+    padding: 0px; /* agrega un margen de 20px alrededor del texto */
+}
+
+#info_contacto {
+    float: left; /* flota el div a la izquierda */
+    width: 45%; /* ocupa el 45% del ancho de la página */
+    padding: 0px; /* agrega un margen de 20px alrededor del texto */
+}
+
+#exp_profesional {
+    float: left; /* flota el div a la derecha */
+    width: 90%; /* ocupa el 45% del ancho de la página */
+    padding: 20px; /* agrega un margen de 20px alrededor del texto */
+}
+
+#skills {
+    clear: both; /* limpia los flotamientos anteriores */
+    float: left; /* flota el div a la izquierda */
+    width: 45%; /* ocupa el 45% del ancho de la página */
+    padding: 20px; /* agrega un margen de 20px alrededor del texto */
+}
